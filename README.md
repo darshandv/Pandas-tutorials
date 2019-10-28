@@ -1,6 +1,6 @@
 # Pandas Tutorials
 
-The notebooks contain ***introduction to different pandas functions***, an essential knowledge required for **Data Science**.
+The notebooks contain ***introduction to different pandas functions***, an essential knowledge required in **Data Science**.
 
 *Introduction_to_pandas.ipynb*: It contains simple introduction to different data structures.
 *Introduction_to_different_pandas_functions.ipynb*: It contains introduction to few basic functions which are very oftenly used.
